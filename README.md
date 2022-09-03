@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Gonzalez</h1>
 <h3 align="center">A Data scientist located in NYC</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/anthony-gonz/</h3>
 <p align="left">
 </p>
 
